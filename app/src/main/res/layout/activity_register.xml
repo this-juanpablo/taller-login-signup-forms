@@ -89,7 +89,7 @@
 
     <RadioGroup
         android:layout_width="match_parent"
-        android:layout_height="97dp" >
+        android:layout_height="157dp">
 
         <RadioButton
             android:id="@+id/radioButton"
@@ -102,6 +102,12 @@
             android:layout_width="125dp"
             android:layout_height="wrap_content"
             android:text="Femenino" />
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:text="otro" />
     </RadioGroup>
 
     <LinearLayout
